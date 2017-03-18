@@ -1,2 +1,0 @@
-# QuizApp
-Project 3
